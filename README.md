@@ -1,5 +1,3 @@
-### Hi  👋
-I'm a Web Engineer and programming enthusiast.
 
 <h1 align="center">Hi there 👋, I'm Riya Garg</h1>
 <h3 align="center">I'm a Web developer and programming enthusiast.</h3>
