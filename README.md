@@ -11,9 +11,7 @@
 
 ## Socials:
 <a href="https://www.linkedin.com/in/riya-garg-b6431466/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riya-garg-b6431466/" height="30" width="20" /></a>
-</p>
 
-<br />
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,11 +33,11 @@
 <br />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riyagarg&show_icons=true&locale=en)
+![](https://github-readme-stats.vercel.app/api?username=riyagarg&show_icons=true&locale=en)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=riyagarg&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riyagarg)<br/>
 
-<br />
+
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
