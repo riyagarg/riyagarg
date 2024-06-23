@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋, I'm Riya Garg</h1>
 <h3 align="center">I'm a Web developer and programming enthusiast.</h3>
 
-🌱 Currently learning Graphql and Java <br> 💬 Ask me about **react, redux, web performance**
+🌱 Currently learning Graphql and Java <br> 💬 Ask me anything about web especially **react, redux, web performance, nextJS**
 
 <br />
 
